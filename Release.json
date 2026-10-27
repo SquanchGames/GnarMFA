@@ -1,0 +1,9 @@
+{
+  "schema": 1,
+  "revision": "mfa-3.4.3-en-us-arpa-r1",
+  "url": "https://github.com/SquanchGames/GnarMFA/releases/download/mfa-3.4.3-en-us-arpa-r1/squanch-mouth-mfa-3.4.3-en-us-arpa-r1-win64.zip",
+  "sha256": "62ceec32e555d6557bc36865e1faacdc434efecf7d0e754e736013c5f8b4fd02",
+  "size": 761185034,
+  "unpacked_size": 801812701,
+  "deployment_sha256": "0f90deaa87a63ede180312a38e2ca467bda47a04194cdd86fffc6c2af433052c"
+}
